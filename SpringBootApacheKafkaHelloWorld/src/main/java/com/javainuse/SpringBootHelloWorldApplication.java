@@ -10,5 +10,6 @@ public class SpringBootHelloWorldApplication {
 
 		SpringApplication.run(
 				new Object[] { SpringBootHelloWorldApplication.class }, args);
+		
 	}
 }
